@@ -1,26 +1,26 @@
 body{
 	margin: 0;
 	padding: 0;
-	font-family: Arial;
+	font-family: chiller;
 	text-align: center;
 }
 .About{
  font-family: Chiller;
- font-size: 50px;
+ font-size: 30px;
  background-color: ;
  color: #008000;
  padding: 5px;
 
 }
 .AW{
-	font-size: 35px;
+	font-size: 25px;
 	
 	 
 }
 
 .CD{
  font-family: Chiller;
- font-size: 50px;
+ font-size: 30px;
  background-color: ;
  color: #008000;
  padding: 50px;
@@ -29,20 +29,20 @@ body{
 
 .Copy{
  font-family: Chiller;
- font-size: 40px;
+ font-size: 30px;
  background-color: ;
  color: #008000;
  padding: 0px;
 
 }
 .add{
-	font-size: 35px;
+	font-size: 25px;
 	
 	
 }
 
 .AC{
-	font-size: 35px;
+	font-size: 25px;
 	
 	
 }
@@ -59,10 +59,10 @@ body{
 	float: left;
 	color: #f2f2f2;
 	text-align: center;
-	padding: 20px 16px;
+	padding: 8px 20px;
 	text-decoration: none;
 	width: 100px;
-	font-size: 14px
+	font-size: 10px
 	font-weight: bold;
 	text-transform: uppercase;
 }
@@ -72,13 +72,6 @@ body{
 	background: #ddd;
 }
 
-.nav a.Share{
-	background: #4caf50;
-	font-size: 15px;
-	border-radius: 50px;
-	transition: 0.0s;
-
-}
 
 .nav a.active{
 	background: #4caf50;
@@ -137,10 +130,7 @@ body{
 }
 
 
-.Animals{
 
-		
-}
 
 .Animals img{
 	width: 130px;
@@ -187,7 +177,7 @@ body{
 
 .Ani{
  font-family: Chiller;
- font-size: 50px;
+ font-size: 30px;
  background-color: ;
  color: #008000;
  padding: 5px;
@@ -197,7 +187,7 @@ body{
 
 .Bir{
  font-family: Chiller;
- font-size: 50px;
+ font-size: 30px;
  background-color:;
  color: #008000;
  padding: 5px;
@@ -208,7 +198,7 @@ body{
 
 .Nat{
  font-family: Chiller;
- font-size: 50px;
+ font-size: 30px;
  background-color:;
  color: #008000;
  padding: 5px;
@@ -224,32 +214,3 @@ body{
 
 }
 
-.s-m{
-	
-
-}
-
-.s-m a{
-	background: #2c3e50;
-	color: white;
-	transition: 0.4s;
-	width: 20px;
-	margin: 0 25px;
-	border-radius: 50px;
-	justify-content: right;
-	align-items: right;
-	transition: 0.4s;
-	font-size: 15px;
-}
-
-.s-m a:hover{
-	background: #4caf50;
-}
-
-.s-m a i{
-	transition: 0.4s all;
-}
-
-.s-m a:hover > i{
-	transform: scale(1.6) rotate(25deg);
-}
