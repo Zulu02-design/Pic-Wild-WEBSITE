@@ -84,16 +84,16 @@ body{
      color: black;
 }
 
-/*#logo {
+#logo {
 	display: inline;
 	padding: 0px 0px 0px 8px;
 	vertical-align: middle;
 }
-*/
+
 #page_paragraph {
 	display: initial;
 	vertical-align: middle;
-	font-size: 28px;
+	font-size: 10px;
 	font-family: chiller;
 	text-shadow: 2px 2px 2px #008000;
 }
